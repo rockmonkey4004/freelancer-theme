@@ -1,5 +1,5 @@
 current directory: /Users/Lsolie/Documents/GitHub/freelancer-theme/vendor/bundle/ruby/2.6.0/gems/nokogumbo-2.0.2/ext/nokogumbo
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200528-32273-8c7iva.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20200528-58772-174s5od.rb extconf.rb
 checking for libxml/tree.h in /Users/Lsolie/Documents/GitHub/freelancer-theme/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.9/ports/x86_64-apple-darwin19/libxml2/2.9.10/include/libxml2... yes
 checking for nokogiri.h in /Users/Lsolie/Documents/GitHub/freelancer-theme/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.9/ext/nokogiri... yes
 creating Makefile
@@ -40,4 +40,4 @@ ld: warning: directory not found for option '-L/Applications/Xcode.app/Contents/
 
 current directory: /Users/Lsolie/Documents/GitHub/freelancer-theme/vendor/bundle/ruby/2.6.0/gems/nokogumbo-2.0.2/ext/nokogumbo
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogumbo.bundle ./.gem.20200528-32273-cchnp/nokogumbo
+/usr/bin/install -c -m 0755 nokogumbo.bundle ./.gem.20200528-58772-1esi3cl/nokogumbo
