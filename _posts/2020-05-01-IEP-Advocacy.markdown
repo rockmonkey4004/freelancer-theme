@@ -11,7 +11,7 @@ description:
 ---
 
 Mimi helps families advocate for the individualized and unique education every child deserves. Her main focus is aligning every part of the IEP to ensure the child is getting adequate support and the best learning environment possible.  
-
+<br>
 #### A Collaborative Experience
 
 Mimi strives to collaborate with the parents, the student, and school system throughout the entire process. When looking at an IEP, Mimi has a big picture mindset for the student and ensures the IEP is engulfed with high expectations as well as support to help the student reach his or her goals.
@@ -26,6 +26,7 @@ Mimi strives to collaborate with the parents, the student, and school system thr
 
 </ul>
 
-Ready to Learn More?
+<br>
+#### Ready to Learn More?
 
 If you would like to learn more about Mimi’s work in IEP advocacy, please click here to [contact her](/index.html/#contact).

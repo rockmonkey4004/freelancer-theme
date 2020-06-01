@@ -1,6 +1,6 @@
 # Site settings
 title: Rising Stars Consulting
-email: your-email@domain.com
+email: mimi@risingstarsconsulting.com
 url: www.risingstarsconsulting.com
 description: "Providing tailored education services for navigating and advocating for the best education experience for those with special needs"
 keywords: "iep, individual education plan, special ed, special education, learning disability, disabilities, special needs,"
@@ -26,7 +26,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: AAC5E2 #80B3FF
-  primary-rgb: "104,145,195" #"128,179,255" 
+  primary-rgb: "104,145,195" #"128,179,255"
   secondary: 6891C3 #FD6E8A
   secondary-dark: 233140 #A2122F
 
