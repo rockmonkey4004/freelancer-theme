@@ -2,14 +2,15 @@
 layout: default
 modal-id: 4
 date: 2020-05-04
-img: game.png
+img: banner-individual-skills.png
 alt: image-alt
 project-date:
 client:
 category:
 description:
+icon: fas fa-house-user
 ---
-#### Readiness for Post-Secondary College Programs
+#### Independent Living Skills Training
 
 Whether the goal is college or employment, Mimi strives to ensure each student is equipped with the necessary tools to be successful with life after school. After collaborating with the family and the student, Mimi develops a plan that aligns with the family’s goal.
 <br>

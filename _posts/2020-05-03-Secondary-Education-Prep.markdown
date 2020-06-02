@@ -2,12 +2,13 @@
 layout: default
 modal-id: 3
 date: 2020-05-04
-img: circus.png
+img: banner-post-secondary-readiness.png
 alt: image-alt
 project-date:
 client:
 category:
 description:
+icon: fas fa-graduation-cap
 ---
 #### Readiness for Post-Secondary College Programs
 

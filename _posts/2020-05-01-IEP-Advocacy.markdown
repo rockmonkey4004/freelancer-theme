@@ -2,12 +2,13 @@
 layout: default
 modal-id: 1
 date: 2020-05-11
-img: cabin.png
+img: collage-iep.png
 alt: image-alt
 project-date:
 client:
 category:
 description:
+icon: fas fa-search
 ---
 
 Mimi helps families advocate for the individualized and unique education every child deserves. Her main focus is aligning every part of the IEP to ensure the child is getting adequate support and the best learning environment possible.  

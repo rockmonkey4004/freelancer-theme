@@ -2,12 +2,13 @@
 layout: default
 modal-id: 2
 date: 2020-05-02
-img: cake.png
-alt: image-alt
+img: banner-study-skills.png
+alt:
 project-date:
 client:
 category:
 description:
+icon: fas fa-school
 ---
 #### Study Skills
 
